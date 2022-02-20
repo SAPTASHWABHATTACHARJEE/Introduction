@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAPTASHWABHATTACHARJEE
 - 👀 I’m interested in webdevelopement
-- 🌱 I’m currently learning html,css,c and python 
+- 🌱 I’m currently learning html,css,c,javascipt and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
