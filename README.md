@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SAPTASHWABHATTACHARJEE
-- 👀 I’m interested in webdevelopement
+- 👋 Hi, I’m @SAPTASHWABHATTACHARJEE.I am a first year undergraduate student at IIT KHARAGPUR 
+- 👀 I’m interested in web developement
 - 🌱 I’m currently learning html,css,c,javascipt and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
