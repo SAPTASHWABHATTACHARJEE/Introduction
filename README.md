@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @SAPTASHWABHATTACHARJEE.I am a senior undergraduate student at IIT KHARAGPUR 
+- 👋 Hi, I’m @SAPTASHWABHATTACHARJEE. I am a senior undergraduate student at IIT KHARAGPUR 
 - 👀 I’m interested in VLSI, Mixed Signal IC Design
 - 📫 My official e-mail id is: saptashwab@kgpian.iitkgp.ac.in
